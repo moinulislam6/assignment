@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url("../images/banner/banner3.png");
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: flex-end;
+    align-items: center;
+}
+.header-container{
+    text-align: right;
+    margin: 120px 200px 0 800px;
+    
+} 
+.btn-primary{
+    border: 0;
+    border-radius: 5px;
+    padding: 20px 25px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    background-color:#F15B22;
+}
+.header-container h2 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFFFFF;
+}
+
+.header-container p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #444343;
+    margin: 25px 0 30px 0;
