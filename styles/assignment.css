@@ -104,3 +104,35 @@
     color: #737272;
 }
 /* plan style Complete */
+.call{
+    margin-top: 150px;
+    background: linear-gradient(90deg, #228df1 0%, rgba(241, 91, 34, 0) 100%),
+    url('../images/watch.png');
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: absolute;
+}
+.call .call-contant{
+    margin-left: 60px;
+}
+.call .call-contant h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 600px 25px 0;
+}
+.call .call-contant .btn-second-primary{
+    border: 0;
+    border-radius: 5px;
+    padding: 20px 25px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #228df1;
+    background-color:#fff;
+
+}
+/* call section style complete */
