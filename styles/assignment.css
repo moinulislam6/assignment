@@ -75,5 +75,32 @@
 .person-details-checklist > div i{
     color: #16D887;
 }
-/* main style complete */
+/* personal details style complete */
+.my-plan{
+    margin-top: 150px;
+    text-align: center;
+}
+.my-plan .my-plan-title{
+    font-size: 40px;
+    font-weight: 700px;
+    margin-bottom: 50px;
+    color: #151414;
 
+}
+.my-plan .my-plan-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.my-plan .my-plan-container .my-plan-box h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #151414;
+    margin: 20px 0 15px 0;
+}
+.my-plan .my-plan-container .my-plan-box p{
+    font-size: 25px;
+    font-weight: 500;
+    color: #737272;
+}
+/* plan style Complete */
